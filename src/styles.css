@@ -37,3 +37,8 @@ html,body{
 .input-bg-color{
     background-color: #f0f0f5;
 }
+
+.link-text-color{
+    color: dodgerblue;
+    cursor: pointer;
+}
